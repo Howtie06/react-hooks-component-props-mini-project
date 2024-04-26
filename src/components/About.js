@@ -2,6 +2,8 @@
 //within the aside element, have an image element with a src attribute of the image variable
 //within the aside element, have a paragraph element with the about variable
 
+//this was my first aproach bur not all the tests were passing,i kept getting errors
+// import React from 'react'
 // function About({image, about}) {
 //   const defaultImage= "https://via.placeholder.com/215"
 
